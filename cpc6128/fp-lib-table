@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "Amstrad-CPC")(type "KiCad")(uri "${KIPRJMOD}/../Amstrad-CPC.pretty")(options "")(descr ""))
+)

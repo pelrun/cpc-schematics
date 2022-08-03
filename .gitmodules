@@ -1,0 +1,3 @@
+[submodule "Amstrad-CPC-Kicad-Symbols"]
+	path = Amstrad-CPC-Kicad-Symbols
+	url = https://github.com/pelrun/Amstrad-CPC-Kicad-Symbols.git
