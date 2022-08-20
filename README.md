@@ -14,3 +14,5 @@ There are some liberties taken due to practical difficulties in reading the top 
 
 Most part values should be correct, but I've not yet bothered to check any resistors - all values were copied from corresponding parts identified in the official schematics for the other revisions. Real values may be different, and additional resistors that are present but not documented elsewhere have been left with a value of "?".
 
+<img src="cpc6128/outputs/mc0020x-3d.jpg">
+
