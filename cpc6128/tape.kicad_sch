@@ -5,7 +5,10 @@
   (paper "A3")
 
   (title_block
-    (title "Tape/Sound/Power")
+    (title "CPC6128 MC0020x tape audio and power")
+    (date "2022-08-20")
+    (rev "1")
+    (company "Amstrad plc")
   )
 
   (lib_symbols

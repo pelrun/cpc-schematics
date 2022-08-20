@@ -5,8 +5,10 @@
   (paper "A3")
 
   (title_block
-    (title "CPC6128")
-    (company "Amstrad")
+    (title "CPC6128 MC0020x")
+    (date "2022-08-20")
+    (rev "1")
+    (company "Amstrad plc")
   )
 
   (lib_symbols
