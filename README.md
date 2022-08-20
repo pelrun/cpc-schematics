@@ -1,6 +1,6 @@
-## Amstrad CPC6128 rev 1 (MC0020x) schematic and pcb.
+## Amstrad CPC6128 version 2 (MC0020x) schematic and pcb.
 
-This is intended to be a reasonably accurate KiCad 6 transcription of the rev1 6128 pcb, with the 40010 Gate Array and the 24-pin disk data separator. The Amstrad service manuals don't bother to document this version, instead providing a mishmash of earlier and later revision schematics and pcb track layouts.
+This is intended to be a reasonably accurate KiCad 6 transcription of the version 2 6128 pcb, with the 40010 Gate Array and the 24-pin disk data separator. The Amstrad service manuals don't bother to document this version, instead providing a mishmash of earlier and later revision schematics and pcb track layouts.
 
 There are some liberties taken due to practical difficulties in reading the top layer of the PCB, so here's the priorities of this version:
 
