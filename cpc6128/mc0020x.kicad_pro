@@ -56,8 +56,14 @@
         }
       ],
       "drc_exclusions": [
+        "via_dangling|183500000|118200000|422be358-5345-4e83-a2e0-9666ddbf9032|00000000-0000-0000-0000-000000000000",
+        "via_dangling|193500000|118200000|814fb942-78cc-43f0-9f9b-f7dbf2152b18|00000000-0000-0000-0000-000000000000",
+        "via_dangling|283006800|93294200|4976102f-d283-4781-b2a3-9b5aef6b101b|00000000-0000-0000-0000-000000000000",
         "via_dangling|284734000|194818000|0849ed02-f1ed-4e53-bcf8-27e5c7ce5963|00000000-0000-0000-0000-000000000000",
-        "via_dangling|308737000|194818000|12da43a5-3390-4ab6-ac70-583a2c9730c0|00000000-0000-0000-0000-000000000000"
+        "via_dangling|308737000|194818000|12da43a5-3390-4ab6-ac70-583a2c9730c0|00000000-0000-0000-0000-000000000000",
+        "via_dangling|312300000|204500000|8b96b249-7fe0-4e23-8bc5-3c99d1f6649e|00000000-0000-0000-0000-000000000000",
+        "via_dangling|312300000|209400000|a4911255-518e-48ca-8b44-de376e69e0d0|00000000-0000-0000-0000-000000000000",
+        "via_dangling|90043000|216027000|fd1db494-03d0-4442-a5e2-50cac23aa616|00000000-0000-0000-0000-000000000000"
       ],
       "meta": {
         "version": 2
@@ -335,7 +341,7 @@
       "no_connect_dangling": "warning",
       "pin_not_connected": "error",
       "pin_not_driven": "error",
-      "pin_to_pin": "warning",
+      "pin_to_pin": "error",
       "power_pin_not_driven": "error",
       "similar_labels": "warning",
       "unannotated": "error",
@@ -419,12 +425,12 @@
     "page_layout_descr_file": ""
   },
   "schematic": {
-    "annotate_start_num": 900,
+    "annotate_start_num": 1,
     "drawing": {
       "default_line_thickness": 6.0,
       "default_text_size": 50.0,
       "field_names": [],
-      "intersheets_ref_own_page": false,
+      "intersheets_ref_own_page": true,
       "intersheets_ref_prefix": "",
       "intersheets_ref_short": false,
       "intersheets_ref_show": false,
