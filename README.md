@@ -7,8 +7,7 @@ There are some liberties taken due to practical difficulties in reading the top 
 - Schematic should match as closely as possible to the real board.
 - All parts and part references and logical connectivity should match exactly.
 - Part and via placement should match as closely as possible.
-- Track routing should match closely on the bottom of the pcb.
-- Track routing should be close on the top of the pcb; there will be variations where the view was obscured by components.
+- Track routing should match closely on both sides of the pcb; all vias should be connected to the correct nets.
 - Exact track poses may vary; original layout was done by hand and has varying angles; kicad layout is kept at 45 degrees.
 - Track widths aren't correct everywhere; while the ground and power nets are handled by a netclass, a bunch of the tracks in the audio circuit need to have their widths manually adjusted.
 

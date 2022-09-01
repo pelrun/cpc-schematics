@@ -10524,7 +10524,7 @@
       (effects (font (size 1.27 1.27)) (justify left))
       (uuid dd58081a-1d6a-4b23-b8b5-4d0528142a9c)
     )
-    (pin "RD_DATA" input (at 118.11 49.53 180)
+    (pin "RD_DATA" output (at 118.11 49.53 180)
       (effects (font (size 1.27 1.27)) (justify left))
       (uuid 515f9d0e-8687-4e35-aa78-fa5b9afaa7b2)
     )

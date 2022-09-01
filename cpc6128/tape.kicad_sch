@@ -2301,7 +2301,7 @@
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 668b1c83-d3bc-4f5b-82d8-c9f5f1e6b062)
   )
-  (hierarchical_label "RD_DATA" (shape input) (at 198.12 184.15 0)
+  (hierarchical_label "RD_DATA" (shape output) (at 198.12 184.15 0)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid a2e6a014-c63b-4519-8f6f-3bec2fdc9438)
   )
